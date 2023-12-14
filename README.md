@@ -1,5 +1,5 @@
 # math_ideas
-save my ideas about math\n
+save my ideas about math<br>
 probably most of them are my optimization homework\n
 if you have some better ideas, please let me know about them\n
 sincerely\n
